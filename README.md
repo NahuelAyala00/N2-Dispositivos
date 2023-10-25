@@ -8,8 +8,10 @@ O **Shoe Store App** é um aplicativo de loja de calçados desenvolvido em Flutt
 ## Tecnologias
 - Flutter
 - Firebase Firestore
+- Dart
+- Android Studio
  
-## Instalação
+## Como excutar
 Siga estas etapas para executar o aplicativo em sua máquina local:
  
 1. Clone o repositório para sua máquina local usando o seguinte comando:
@@ -17,9 +19,9 @@ git clone https://github.com/NahuelAyala00/N1-Dispositivos.git
  
 2. Certifique-se de ter o Flutter instalado. Caso contrário, siga o guia de instalação oficial do Flutter em [flutter.dev](https://flutter.dev/docs/get-started/install).
  
-3. Execute o aplicativo:
-  cd seu-repositorio
-  flutter run
+3. Abra a pasta do projeto pela IDE e atualize as dependencias;
+  
+4. Rode o projeto.
  
 ## Como Usar
 Após a instalação, você pode abrir o aplicativo em um emulador ou dispositivo físico. Aqui estão as principais funcionalidades do aplicativo:
