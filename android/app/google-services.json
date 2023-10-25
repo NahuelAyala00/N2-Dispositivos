@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794290249156",
+    "project_id": "nahuel-1aca1",
+    "storage_bucket": "nahuel-1aca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794290249156:android:e4d624347388f33cb91891",
+        "android_client_info": {
+          "package_name": "com.example.nahuel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs8hzaPoQXZ0FZ4ny3WyEeXE5VNKfQTHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
